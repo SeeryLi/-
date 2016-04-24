@@ -10,4 +10,5 @@
 9,text-align justify 处理文字对齐;
 10,position:absolute之后，元素的位置，以及父元素padding-bottom的设置或者index的设置;
 11,三元表达式运用的情况，不要随便使用三元表达式替换if else;
-12,css transition.
+12,css transition;
+13,white-space 代替br换行的运用.
