@@ -13,6 +13,4 @@
 # css transition;
 # white-space 代替br换行的运用.
 
-# 2017-12-6：
-# 小程序目录结构:根目录放config.js,export一些接口，lib\文件夹里的api.js引用，util.js 写一些公用方法。
-# 小程序css相关:最顶层有个page对象，如果又需要可以设置page{height:100%;},也可以用  /*position: fixed; height: 100%; width: 100%;  display:flex; flex-direction:column; align-items:center; justify-content: center; */ 的view作为顶层容器代替
+
